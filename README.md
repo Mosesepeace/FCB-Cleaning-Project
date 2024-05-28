@@ -24,7 +24,7 @@ Google Query Sheet
 SELECT * FROM TABLE 1
 Where condition = MET
 
-
+![](FLYER 1.jpg)
 
 
 
