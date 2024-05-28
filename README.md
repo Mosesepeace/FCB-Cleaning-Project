@@ -18,14 +18,39 @@ techniques,and cleaning chemicals to ensure a safe, clean, and productive workin
   
 Site to to get these cleaning machines [click here](https://www.kaercher.com/us/)
 
+![](black.png)          ![](FLYER 1.jpg)
 
 ```
 Google Query Sheet
 SELECT * FROM TABLE 1
 Where condition = MET
+```
 
-![](FLYER 1.jpg)
-![](grey cap.jpg)
+|Name| Occupation| Age|
+|-------|------|-----|
+|Tolu| Tader| 24|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
